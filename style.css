@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* I have changed all the benefits to one class*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,7 +105,7 @@ p {
     max-width: 150px;
 }
 
-
+/* I have changed all the images into 1 class*/
 .subheading {
     margin-bottom: 20px;
     padding: 50px;
